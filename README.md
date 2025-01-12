@@ -1,4 +1,4 @@
-Flappy Bird
+# Flappy Bird
 
 A simple Flappy Bird clone written in Java using Swing. The code in FlappyBird.java extends JPanel and manages game logic (bird movement, pipe generation, collision detection, etc.). Press the SPACE BAR to flap the bird's wings and avoid colliding with the pipes.
 
